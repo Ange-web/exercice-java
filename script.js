@@ -1,2 +1,3 @@
-let message =("bonjour ")
-console.log(message)
+let message =("bonjour")
+let firstname =("beyonce !")
+console.log(message,firstname)
